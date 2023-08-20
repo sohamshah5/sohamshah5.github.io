@@ -1,0 +1,188 @@
+{
+  "layerInfos": [
+    {
+      "name": "Sketch - Text",
+      "id": "189da90e225-layer-38_4",
+      "layer": {
+        "url": ""
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Sketch - Points",
+      "id": "189da90e225-layer-38_3",
+      "layer": {
+        "url": ""
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Sketch - Multipoints",
+      "id": "189da90e225-layer-38_2",
+      "layer": {
+        "url": ""
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Sketch - Polylines",
+      "id": "189da90e225-layer-38_1",
+      "layer": {
+        "url": ""
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Sketch - Polygons",
+      "id": "189da90e225-layer-38_0",
+      "layer": {
+        "url": ""
+      },
+      "show": false,
+      "showAttachments": false,
+      "sortField": "OBJECTID",
+      "isDescending": false
+    },
+    {
+      "name": "Critical Minerals - Critical Minerals",
+      "id": "189da804d31-layer-2",
+      "layer": {
+        "url": "https://services7.arcgis.com/AHJOWTX3sFcnmA9U/arcgis/rest/services/Critical_Minerals/FeatureServer/0",
+        "fields": [
+          {
+            "name": "FID",
+            "alias": "FID",
+            "show": false
+          },
+          {
+            "name": "AcStatusEN",
+            "alias": "AcStatusEN",
+            "show": true
+          },
+          {
+            "name": "AcStatusFR",
+            "alias": "AcStatusFR",
+            "show": true
+          },
+          {
+            "name": "CommodEN",
+            "alias": "CommodEN",
+            "show": true
+          },
+          {
+            "name": "CommodFR",
+            "alias": "CommodFR",
+            "show": true
+          },
+          {
+            "name": "DevStageEN",
+            "alias": "DevStageEN",
+            "show": true
+          },
+          {
+            "name": "DevStageFR",
+            "alias": "DevStageFR",
+            "show": true
+          },
+          {
+            "name": "ID",
+            "alias": "ID",
+            "show": true
+          },
+          {
+            "name": "Latitude",
+            "alias": "Latitude",
+            "show": true,
+            "format": {
+              "digitSeparator": true,
+              "places": 2
+            }
+          },
+          {
+            "name": "Longitude",
+            "alias": "Longitude",
+            "show": true,
+            "format": {
+              "digitSeparator": true,
+              "places": 2
+            }
+          },
+          {
+            "name": "OperatorEn",
+            "alias": "OperatorEn",
+            "show": true
+          },
+          {
+            "name": "OperatorFr",
+            "alias": "OperatorFr",
+            "show": true
+          },
+          {
+            "name": "OpGroupEn",
+            "alias": "OpGroupEn",
+            "show": true
+          },
+          {
+            "name": "OpGroupFr",
+            "alias": "OpGroupFr",
+            "show": true
+          },
+          {
+            "name": "PropNameEN",
+            "alias": "PropNameEN",
+            "show": true
+          },
+          {
+            "name": "PropNameFR",
+            "alias": "PropNameFR",
+            "show": true
+          },
+          {
+            "name": "ProvEN",
+            "alias": "ProvEN",
+            "show": true
+          },
+          {
+            "name": "ProvFR",
+            "alias": "ProvFR",
+            "show": true
+          },
+          {
+            "name": "Website",
+            "alias": "Website",
+            "show": true
+          }
+        ]
+      },
+      "show": true,
+      "showAttachments": false,
+      "sortField": "FID",
+      "isDescending": false
+    }
+  ],
+  "table": {
+    "pageSizeOptions": [
+      25,
+      50,
+      100,
+      1000
+    ]
+  },
+  "hideExportButton": false,
+  "initiallyExpand": false,
+  "filterByMapExtent": true,
+  "allowTextSelection": true,
+  "syncWithLayers": false
+}

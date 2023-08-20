@@ -1,0 +1,32 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "189da90e225-layer-38": {
+      "selected": false
+    },
+    "189da804d31-layer-2": {
+      "selected": true
+    },
+    "189da90e225-layer-38_4": {
+      "selected": false
+    },
+    "189da90e225-layer-38_3": {
+      "selected": false
+    },
+    "189da90e225-layer-38_2": {
+      "selected": false
+    },
+    "189da90e225-layer-38_1": {
+      "selected": false
+    },
+    "189da90e225-layer-38_0": {
+      "selected": false
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}
